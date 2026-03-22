@@ -1,11 +1,7 @@
 
 
 
-datasource:
-    url: jdbc:mysql://host.docker.internal:3306/mydatabase1
-    username: root
-    password: root
-    driver-class-name: com.mysql.cj.jdbc.Driver
+
 
 build:
   version: "v2.0"
