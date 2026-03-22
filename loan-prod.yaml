@@ -1,0 +1,19 @@
+
+
+datasource:
+    url: jdbc:mysql://host.docker.internal:3306/mydatabase3
+    username: root
+    password: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+build:
+  version: "v1.0"
+
+accounts:
+  message: "Wellcome to easybank customer support local api"
+  contactDetails:
+    name: "Ronalado"
+    email: "ronaldo@gmail.com"
+  onCallSupport:
+    -(555)22110345
+    -(555)11122345

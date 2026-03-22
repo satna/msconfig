@@ -1,0 +1,27 @@
+
+
+
+  datasource:
+    url: jdbc:mysql://localhost:3306/mydatabase3
+    username: root
+    password: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+
+
+
+
+
+
+
+  build:
+    version: "v3.0"
+
+  loan:
+    message: "Wellcome to easybank customer support local api"
+    contactDetails:
+        name: "Hoton"
+        email: "hotuon@gmail.com"
+    onCallSupport:
+        -(555)22110345
+        -(555)11122345

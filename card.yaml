@@ -1,0 +1,19 @@
+
+  datasource:
+    url: jdbc:mysql://localhost:3306/mydatabase2 #
+    username: root
+    password: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+  build:
+    version: "v3.0"
+
+  cards:
+    message: "Wellcome to easybank customer support local api for cards"
+    contactDetails:
+      name: "Anuj Katiyar"
+      email: "Anujk@gmail.com"
+    onCallSupport:
+      -(555)22110345
+      -(555)11122345
+
