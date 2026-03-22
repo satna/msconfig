@@ -14,7 +14,7 @@ accounts:
   message: "Wellcome to easybank customer support local api"
   contactDetails:
     name: "Messi"
-    email: "messi@gmail.com"
+    email: "{cipher}af963e03f095a49d09400fe43088d7462f1861ec1523eecf6b2fc1352bd30e05"
   onCallSupport:
     -(555)22110345
     -(555)11122345
