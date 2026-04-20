@@ -1,7 +1,6 @@
 server:
   port: 8072
-config:
-  import: "optional:configserver:http://configserver:8071/"
+
   
 
 eureka:
