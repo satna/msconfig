@@ -1,4 +1,5 @@
-
+config:
+    import: "optional:configserver:http://configserver:8071/"
 
 build:
   version: "v2.0"
