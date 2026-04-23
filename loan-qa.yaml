@@ -4,7 +4,7 @@ build:
   version: "v2.0"
 
 accounts:
-  message: "Wellcome to easybank customer support local api"
+  message: "Wellcome to easybank customer support qa api"
   contactDetails:
     name: "Messi"
     email: "messi@gmail.com"
