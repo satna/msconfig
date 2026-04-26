@@ -1,0 +1,13 @@
+
+
+build:
+  version: "v2.0"
+
+accounts:
+  message: "Wellcome to easybank customer support local api"
+  contactDetails:
+    name: "Messi"
+    email: "messi@gmail.com"
+  onCallSupport:
+    -(555)22110345
+    -(555)11122345
